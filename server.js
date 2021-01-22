@@ -16,7 +16,8 @@ bot.onMessage()
 
  // Variable
 bot.variables({
- prefix:"YOUR BOT PREFIX"
+ prefix: "YOUR BOT PREFIX",
+ warn: "0"
 })
 
  //commands handler
