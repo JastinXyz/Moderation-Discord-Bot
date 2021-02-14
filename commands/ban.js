@@ -12,6 +12,6 @@ $addField[Admin;<@$authorID>]
 $addField[Reason;$noMentionMessage]
 ]
 $argsCheck[>2;Use: \`$getServerVar[prefix]ban <@user> <Reason>\`]
-$onlyPerms[admin;❌ **You need Administrator Permissions!**]
+$onlyPerms[manageserver;❌ **You need Manage Server Permissions!**]
 `
 }
