@@ -9,5 +9,5 @@ $color[d7342a]
 $onlyIf[$mentioned[1]!=;**Mention User!**
 __**Example**__
 \`$getServerVar[prefix]checkwarn <@user>\` ]
-$onlyPerms[admin;❌ **You need Administrator Permissions!**]`
+$onlyPerms[manageserver;❌ **You need Manage Server Permissions!**]`
 }
