@@ -15,10 +15,10 @@ $thumbnail[$userAvatar[$authorID]]
 \`$getServerVar[prefix]removewarn\` - Remove warn one of the users.
 \`$getServerVar[prefix]poll\` - Polling.
 \`$getServerVar[prefix]clear\` - Delete Message.
-\`$getServerVar[prefix]setprefix\` - Set Custom Prefix.
+\`$getServerVar[prefix]setprefix\` - Set Custom Prefix.]
 
 $color[RANDOM]
-$footer[Simple Moderation Bot]
+$footer[Simple Moderation Bot | Subscribe Jastin Ch]
 $addTimestamp`
 
 }
