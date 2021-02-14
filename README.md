@@ -10,7 +10,7 @@ Simple Moderation Discord Bot With Library DBD.js by Me.
 - Done, your Bot can be used.
 
 # Useful Link
-[Donate? Click here](https;//jastinch.xyz/donate.html)
+[Donate? Click here](https;//jastinch.xyz/donate.html) <br>
 [SUBSCRIBE](https://youtube.com/c/JastinCh)
 [Invite Shiina (My Bot)](https://dsc.gg/shiina)
 [Join Shiina Ground](https://discord.gg/UZUeBR5U8R)
